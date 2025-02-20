@@ -3,6 +3,7 @@ NOTE: This is not my project, I am just using this to learn new things in the sp
 
 STEPS 
 Install Seeker using git clone from github https://github.com/thewhiteh4t/seeker
+
 Install/update all the requriments (python3 python3-pip php refer 1.pnp)
 using "PIP install" command install the requests
 Set up Ngrok accout and download it
