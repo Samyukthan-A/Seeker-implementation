@@ -1,5 +1,6 @@
 # Seeker-implementation
-NOTE: This is not my project, I am just using this to learn new things in the space of cybersecurity. all credits go to https://github.com/thewhiteh4t 
+NOTE: This is not my project, I am just using this to learn new things in the space of cybersecurity. 
+All credits go to https://github.com/thewhiteh4t 
 
 STEPS 
 
