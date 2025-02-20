@@ -11,3 +11,4 @@ run seeker.py with command python.py seeker.py
 Select a template like whatsapp group,google drive and so on
 create link and use social engineering to bait your target
 When Target clicks the link you should see their location in Seeker terminal 
+
