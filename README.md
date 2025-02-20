@@ -2,6 +2,7 @@
 NOTE: This is not my project, I am just using this to learn new things in the space of cybersecurity. all credits go to https://github.com/thewhiteh4t 
 
 STEPS 
+
 1.Install Seeker using git clone from github https://github.com/thewhiteh4t/seeker
 
 2.Install/update all the requriments (python3 python3-pip php refer 1.pnp)
